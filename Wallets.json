@@ -1,0 +1,20 @@
+[
+    {
+        "1001": {
+            "Name": "John Doe Example 1",
+            "Wallets": [
+                "0x....",
+                "0x...."
+            ]
+        }
+    },
+    {
+        "1002": {
+            "Name": "John Doe Example 2",
+            "Wallets": [
+                "0x....",
+                "0x...."
+            ]
+        }
+    }
+]
