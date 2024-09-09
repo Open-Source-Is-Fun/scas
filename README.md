@@ -17,12 +17,12 @@ This script fetches data from currently snowscan to gather information about wal
 Initial Configuration:
 
 Step 1: You have to edit following lines inside the python script:
-211: address = "0x..." # The wallet address of interest
-224: directory_path = "/path/to/file/" # Path where you want to put the .ods file
+- 211: address = "0x..." # The wallet address of interest
+- 224: directory_path = "/path/to/file/" # Path where you want to put the .ods file
 
 Step 2: Then you have to move the file Wallets.json to the directory where you want to store your .ods file. Then you can add MemberIDs with corresponding wallet addressess. This is however entirely up to you.
 
-Step 3: Then run the 
+Step 3: Then run the script (Simple_Crypto_Accounting.py)
 
 Notes:
 
